@@ -1,0 +1,5 @@
+[
+  "tests/test_mega_zip_folder.py::TestFolder::test_basic",
+  "tests/test_mega_zip_folder.py::TestFolder::test_empty",
+  "tests/test_mega_zip_folder.py::TestFolder::test_type_error"
+]
